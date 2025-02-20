@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vickysanthosheee/)
 
-I'm a tech enthusiast currently pursuing my **MCA in India** and part of the tech team in the **SkillsBuild program**. I also create educational content on **ethical hacking** and have an online course on **Udemy**.
+I'm a cyber security expert and technology enthusiast who is passionate about helping organizations protect their data and create secure online environments. I'm driven by the desire to put technology to work for the greater good and empower individuals and businesses to benefit from the digital revolution. With over 7 years of experience in the field, I'm dedicated to staying up to date with the latest trends and innovations in the cyber security landscape. I'm also committed to helping others learn more about the importance of online security and how to stay safe online.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **cybersecurity and ethical hacking projects**.
@@ -14,6 +14,7 @@ I'm a tech enthusiast currently pursuing my **MCA in India** and part of the tec
 - **LinkedIn**: [vickysanthosheee](https://www.linkedin.com/in/vickysanthosheee/)
 - **GitHub**: [GitHub Profile](https://github.com/your-github-username)
 - **Udemy**: [Ethical Hacking Course](https://www.udemy.com/share/104gaY/)
+- **instagram** :[Follow Me on 
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C, JavaScript, HTML, CSS
