@@ -6,7 +6,7 @@ I'm a cyber security expert and technology enthusiast who is passionate about he
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **cybersecurity and ethical hacking projects**.
-- 🎓 Master of Computer Applications (MCA) student.
+- 🎓 Master of Computer Applications (MCA) Cybersecurity
 - 🎯 Passionate about **technology, cybersecurity, and software development**.
 - 📚 Instructor for [Ethical Hacking Course for Beginners (Tamil)](https://www.udemy.com/share/104gaY/).
 
