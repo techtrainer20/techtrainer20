@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Vignesh Mathiyalagan! 👋
 
-<!--
-**techtrainer20/techtrainer20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vickysanthosheee/)
 
-Here are some ideas to get you started:
+I'm a tech enthusiast currently pursuing my **MCA in India** and part of the tech team in the **SkillsBuild program**. I also create educational content on **ethical hacking** and have an online course on **Udemy**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on **cybersecurity and ethical hacking projects**.
+- 🎓 Master of Computer Applications (MCA) student.
+- 🎯 Passionate about **technology, cybersecurity, and software development**.
+- 📚 Instructor for [Ethical Hacking Course for Beginners (Tamil)](https://www.udemy.com/share/104gaY/).
+
+## 📫 Connect with Me
+- **LinkedIn**: [vickysanthosheee](https://www.linkedin.com/in/vickysanthosheee/)
+- **GitHub**: [GitHub Profile](https://github.com/your-github-username)
+- **Udemy**: [Ethical Hacking Course](https://www.udemy.com/share/104gaY/)
+
+## 🛠️ Tech Stack
+- **Languages**: Python, C, JavaScript, HTML, CSS
+- **Cybersecurity**: Ethical Hacking, Kali Linux, Penetration Testing
+- **Tools & Platforms**: Git, GitHub, Linux, VS Code
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+🔹 _Always eager to learn and collaborate on exciting tech projects!_
+
